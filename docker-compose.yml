@@ -1,0 +1,6 @@
+version: '3.7'
+services:
+  sub2:
+    build: ./sub2
+    volumes:
+      - ./sub2:/usr/src/app
