@@ -1,5 +1,5 @@
 # docker-volume-issue-with-junctioned-directory
-https://github.com/docker/for-win/issues/5530
+https://github.com/docker/for-win/issues/5582
 
 Platform: Windows 10 Pro Version	10.0.18363 Build 18363
 
